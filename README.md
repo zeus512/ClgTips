@@ -1,5 +1,5 @@
 # ClgTips
-> A curated list of softawres, browser plugins, tools, tips and websites made by and for the student of NITH and maintained by the same.
+> A  list of softwares, browser plugins, tools, tips and websites made by and for the student of IIIT Una and maintained by the same.
 
 ## Contents
 - [Firefox](#firefox)
