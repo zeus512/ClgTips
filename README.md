@@ -38,6 +38,8 @@
 ### Common to Both Browsers
 1. **Incognito mode** - Private browsing `Ctrl + Shift + N`(Chrome), `Ctrl + Shift + P`(Firefox)
 2. **Push Bullet** ([*Chrome*](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en)) ([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/pushbullet/)) - Sync media, messages across multiple devices.
+3. **Octotree** ([*Chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc))
+([*Firefox*](https://addons.mozilla.org/en-US/firefox/addon/octotree/?src=rating))- Life saver for github users . Easy-to-navigate code tree like IDEs
 
 ## Websites
 1. [**Dayt.se**](http://dayt.se/), [**khatrimaza**](http://khatrimaza.org/), [**Couchtuner**](http://www.couchtuner.ag/), [**Shush**](https://www.shush.se/), [**KissAnime**](https://kissanime.to/) - Get all the tv series and movies in HD.
