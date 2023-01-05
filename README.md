@@ -1,4 +1,4 @@
-# ClgTips
+# [ClgTips]
 > A  list of softwares, browser plugins, tools, tips and websites.
 
 ## Contents
